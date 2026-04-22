@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A Java-based **Library Management System** designed to simplify and automate library operations such as managing books, students, issue/return records, and librarian activities.
+A PHP-based **Library Management System** designed to simplify and automate library operations such as managing books, students, issue/return records, and librarian activities.
 
 This project helps libraries maintain records efficiently by replacing manual paperwork with a digital system.
 
