@@ -94,15 +94,10 @@ This project is useful for:
 You can add project screenshots here:
 
 ```markdown
-![Home Page]
 <img width="1495" height="962" alt="image" src="https://github.com/user-attachments/assets/af166ec1-b1b1-4b53-970b-ec4999653f6d" />
-![Student Registration Form]
 <img width="1509" height="1125" alt="image" src="https://github.com/user-attachments/assets/17cc5767-ffef-4e8b-bd57-aca99cb051c6" />
-![Student Dashboard]
 <img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/443300bd-d16e-41b2-96c8-05d40a78b9b9" />
-![Librarian Login]
 <img width="1505" height="1125" alt="image" src="https://github.com/user-attachments/assets/797e8873-950b-4053-b254-bb07804271cf" />
-![Librarian Dashboard]
 <img width="1499" height="1125" alt="image" src="https://github.com/user-attachments/assets/0e26f77e-3e93-4a94-bb3d-233c53528bbe" />
 
 ```
